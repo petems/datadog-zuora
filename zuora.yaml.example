@@ -1,0 +1,4 @@
+init_config:
+instances:
+  - base_url: "rest.sandbox.eu.zuora.com"
+    oauth_token: 'foobarbaz'
